@@ -7,4 +7,5 @@
   * [命名规范](effective-go/ming-ming-gui-fan.md)
   * [分号](effective-go/fen-hao.md)
   * [控制结构](effective-go/kong-zhi-jie-gou.md)
+  * [函数](effective-go/han-shu.md)
 
