@@ -8,3 +8,7 @@ description: introduction
 
 整篇文档在这篇[英文文档](https://sourabhbajaj.com/mac-setup/)的基础上进行翻译和补充。 
 
+{% hint style="info" %}
+这个是一个hint
+{% endhint %}
+
