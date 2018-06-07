@@ -8,4 +8,5 @@
   * [分号](effective-go/fen-hao.md)
   * [控制结构](effective-go/kong-zhi-jie-gou.md)
   * [函数](effective-go/han-shu.md)
+  * [数据结构](effective-go/shu-ju-jie-gou.md)
 
