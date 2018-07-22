@@ -1,12 +1,28 @@
-# Initial page
+# 学习计划
 
-这是整个图书馆的脸= =，每新增一本书，就是新增一个分支，永远不要把分支合并到master上。
+## 一 整体学习路径
 
-图书馆目录：
+* Java语法基础知识
+* 面向对象引论
+* Spring基础知识理解
+* 金丝雀博客系统实战
+* Java高级语法基础
+* Effective Java
+* 代码整洁之道
+* 面试经典题库
+* spring代码赏析
+* Java JVM&Concurrent包
+* To be God！！
 
-* knowledge分支：技术积累，可以publish到gitbook中
-* make-up-mac分支：mac软件设置等，可以publish到gitbook中
-* 其他分支可以新增图书，但都为私有了：
+## 二 面试准备路径
+
+* Java经典问题题库
+* Spring经典问题题库
+* 数据库常见问题
+* 数据结构与算法基础
+* LeetCode题库
+
+
 
 
 
