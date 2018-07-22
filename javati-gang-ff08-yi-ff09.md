@@ -48,15 +48,15 @@ public class Main {
 }
 ```
 
-3. Java中，方法参数的传递是按值传递还是按引用传递呢？你能写一段程序证明你的观点吗？
+1. Java中，方法参数的传递是按值传递还是按引用传递呢？你能写一段程序证明你的观点吗？
 
-4. Java的方法签名为什么不包含返回值？
+2. Java的方法签名为什么不包含返回值？
 
-5. 理解static关键词
+3. 理解static关键词
 
-6. JVM的内存模型？堆是什么？栈又是什么，有什么区别？哪些数据在堆里，哪些在栈里呢？
+4. JVM的内存模型？堆是什么？栈又是什么，有什么区别？哪些数据在堆里，哪些在栈里呢？
 
-7. 通过String这个类，考考你对上述问题的理解程度呀，下面代码会输出啥呢？（我又考考你了- -！）
+5. 通过String这个类，考考你对上述问题的理解程度呀，下面代码会输出啥呢？（我又考考你了- -！）
 
 ```java
 public class UnderstandString {
@@ -87,7 +87,7 @@ public class PassObject {
     static void f(Letter y){
         y.c = "f";
     }
-    
+
     public static void main(String[] args){
         Letter x = new Letter();
         x.c = "t";
@@ -98,7 +98,7 @@ public class PassObject {
 }
 ```
 
-2. i++和++i的区别是什么？
+1. i++和++i的区别是什么？
 
 ```java
 public class UnderstandPlusPlus {
@@ -111,11 +111,11 @@ public class UnderstandPlusPlus {
 }
 ```
 
-3. == 和 equals\(\)方法的区别是什么？其实能理解上一节中String的各种j就差不多
+1. == 和 equals\(\)方法的区别是什么？其实能理解上一节中String的各种j就差不多
 
-4. 利用逻辑运算符的短路现象精简代码的书写，显得专业，另外注意Java中不支持除true或false以外的值出现在if语句中。
+2. 利用逻辑运算符的短路现象精简代码的书写，显得专业，另外注意Java中不支持除true或false以外的值出现在if语句中。
 
-5. 10.7 转化为int类型变成多少了？
+3. 10.7 转化为int类型变成多少了？
 
 ### section 3 控制执行流程
 
